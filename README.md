@@ -1,4 +1,9 @@
 # Host Link:- https://airbnb-clone-by-prashant.netlify.app/
+# Screenshot:- 
+![airbnb1](https://user-images.githubusercontent.com/97236302/196026006-d75e6f69-0df3-4c5d-b9a9-efaa2388ef6f.jpeg)
+
+![airbnb2](https://user-images.githubusercontent.com/97236302/196026037-a2ca2f36-bb29-499b-9cdc-e13003b035df.jpeg)
+
 
 
 # Getting Started with Create React App
